@@ -7,6 +7,7 @@ namespace aula99_projetoteste
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Good morning!");
 
             Console.ReadLine();
         }
